@@ -15,7 +15,15 @@
   <img src="https://raw.githubusercontent.com/Dhananjaybhugaonkar/Dhananjaybhugaonkar/main/chess_animation.svg" width="450px">
 </p>
 
-🔥 **Watch the players make their moves!** (SVG animation)  
+### ♟️ Chess Game Animation
+
+<p align="center">
+  <video width="500" controls>
+    <source src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/My Video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 
 ---
 
