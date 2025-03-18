@@ -1,0 +1,15 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1A1A1A"/>
+  <text x="50%" y="10%" font-size="24" fill="white" text-anchor="middle">Live Chess Animation</text>
+  
+  <!-- Chess Board -->
+  <rect x="100" y="100" width="300" height="300" fill="white" stroke="black" stroke-width="5"/>
+
+  <!-- Chess Pieces -->
+  <circle cx="150" cy="150" r="15" fill="black">
+    <animate attributeName="cy" from="150" to="250" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="250" r="15" fill="white">
+    <animate attributeName="cy" from="250" to="150" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
